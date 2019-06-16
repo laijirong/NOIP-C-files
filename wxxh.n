@@ -1,0 +1,8 @@
+int a=0
+msgbox("我是一个无敌的窗口,我有很多条命。来，我给你数数我的命数.")
+do
+a=a+1
+msgbox(a)
+a=a+1
+msgbox(a)
+loop

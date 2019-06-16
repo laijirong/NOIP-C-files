@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "system_error": "cpp",
+        "vector": "cpp",
+        "cstring": "cpp",
+        "limits": "cpp",
+        "algorithm": "cpp",
+        "cstdlib": "cpp",
+        "queue": "cpp",
+        "istream": "cpp",
+        "cmath": "cpp",
+        "cstdio": "cpp",
+        "sstream": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp",
+        "complex": "cpp",
+        "ratio": "cpp"
+    }
+}

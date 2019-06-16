@@ -1,0 +1,6 @@
+#include<cstdio>
+#include<algorithm>//   1  (sort  )  2(min,max)
+#include<iostream> //   1（cin,cout,输入输出字符）   2（memset :   memset(数组名，数组初值，sizeof(数组名）；    
+#include<cstring>  //   1   ( strlen )
+#include<cstdlib>  //   1  (    rand()   )    
+#include<cmath>    //   1   (  sqrt )
